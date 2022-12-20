@@ -13,10 +13,10 @@
         <module>order</module>
         <module>delivery</module>
         <module>kitchen</module>
-        <module>admin</module>
         <module>payment</module>
         <module>notification</module>
         <module>domain</module>
+        <module>admin</module>
     </modules>
 
     <properties>
