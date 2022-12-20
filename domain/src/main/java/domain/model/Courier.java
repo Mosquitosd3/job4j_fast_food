@@ -15,7 +15,7 @@ import java.util.List;
 public class Courier {
     @EqualsAndHashCode.Include
     private int id;
-    private String Name;
+    private String name;
     private String numberPhone;
     private List<Order> orders = new ArrayList<>();
     private String email;
